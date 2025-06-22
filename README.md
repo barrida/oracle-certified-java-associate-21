@@ -1,4 +1,4 @@
-# Practice codes for Oracle Certified Associate (OCA) Java SE 8 Programmer I 
+# Practice codes for Oracle Certified Associate (OCA) Java SE 21 Programmer I 
 
 This repository is created to provide documentation and code samples for Oracle Certified Java SE 8 Programmer I exam.
 
